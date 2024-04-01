@@ -1,0 +1,10 @@
+{
+    "name": "asadjavedlearning/adduser",
+    "description": "this package is used for add users",
+    "autoload": {
+        "psr-4": {
+            "Adduser\\": "src/"
+        }
+    },
+    "require": {}
+}
